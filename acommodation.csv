@@ -1,0 +1,198 @@
+country,capital,price
+Afghanistan,Kabul,229.5
+Albania,Tirana,82.28
+Algeria,Algiers,77.87
+Andorra,Andorra la Vella,77.18
+Angola,Luanda,101.99
+Antigua and Barbuda,Saint John's,109.09
+Argentina,Buenos Aires,137.52
+Armenia,Yerevan,139.73
+Australia,Canberra,138.3
+Austria,Vienna,139.79
+Azerbaijan,Baku,136.53
+Bahamas,Nassau,142.46
+Bahrain,Manama,143.82
+Bangladesh,Dhaka,140.78
+Barbados,Bridgetown,141.85
+Belarus,Minsk,141.85
+Belgium,Brussels,143.5
+Belize,Belmopan,142.18
+Benin,Porto-Novo,154.72
+Bhutan,Thimphu,158.18
+Bolivia,"Sucre (de jure), La Paz (seat of government)",158.18
+Bosnia and Herzegovina,Sarajevo,153.31
+Botswana,Gaborone,149.26
+Brazil,Brasilia,145.18
+Brunei,Bandar Seri Begawan,141.59
+Bulgaria,Sofia,139.8
+Burkina Faso,Ouagadougou,136.52
+Burundi,Gitega,136.52
+Cabo Verde,Praia,132.92
+Cambodia,Phnom Penh,130.07
+Cameroon,Yaounde,127.83
+Canada,Ottawa,130.3
+Central African Republic,Bangui,130.19
+Chad,N'Djamena,130.25
+Chile,Santiago,129.73
+China,Beijing,128.68
+Colombia,Bogotá,128.39
+Comoros,Moroni,128.23
+"Congo, Democratic Republic of the",Kinshasa,128.68
+"Congo, Republic of the",Brazzaville,129.71
+Costa Rica,San Jose,132.02
+Cote d'Ivoire,Yamoussoukro,131.31
+Croatia,Zagreb,131.74
+Cuba,Havana,130.51
+Cyprus,Nicosia,129.71
+Czechia,Prague,128.98
+Denmark,Copenhagen,128.63
+Djibouti,Djibouti (city),128.97
+Dominica,Roseau,128.98
+Dominican Republic,Santo Domingo,129.6
+Ecuador,Quito,131.18
+Egypt,Cairo,133.34
+El Salvador,San Salvador,132.43
+Equatorial Guinea,"Malabo (de jure), Oyala (seat of government)",132.43
+Eritrea,Asmara,132.36
+Estonia,Tallinn,131.29
+Eswatini,"Mbabane (administrative), Lobamba (legislative, royal)",131.29
+Ethiopia,Addis Ababa,129.93
+Fiji,Suva,129.11
+Finland,Helsinki,129.28
+France,Paris,133.82
+Gabon,Libreville,133.43
+Gambia,Banjul,131.73
+Georgia,Tbilisi,130.77
+Germany,Berlin,131.96
+Ghana,Accra,132.47
+Greece,Athens,133.7
+Grenada,Saint George's,138.33
+Guatemala,Guatemala City,137.51
+Guinea,Conakry,137.1
+Guinea-Bissau,Bissau,136.96
+Guyana,Georgetown,136.86
+Haiti,Port-au-Prince,136.43
+Honduras,Tegucigalpa,135.73
+Hungary,Budapest,135.94
+Iceland,Reykjavik,137.33
+India,New Delhi,136.57
+Indonesia,Jakarta,135.23
+Iran,Tehran,135.23
+Iraq,Baghdad,135.49
+Ireland,Dublin,136.27
+Israel,Jerusalem,139.47
+Italy,Rome,148.37
+Jamaica,Kingston,148.3
+Japan,Tokyo,147.85
+Jordan,Amman,147.41
+Kazakhstan,Astana,146.6
+Kenya,Nairobi,146.46
+Kiribati,Tarawa,146.42
+Kosovo,Pristina,145.21
+Kuwait,Kuwait City,145.1
+Kyrgyzstan,Bishkek,144.14
+Laos,Vientiane,142.8
+Latvia,Riga,141.75
+Lebanon,Beirut,141.11
+Lesotho,Maseru,139.97
+Liberia,Monrovia,139.91
+Libya,Tripoli,139.7
+Liechtenstein,Vaduz,140.47
+Lithuania,Vilnius,139.51
+Luxembourg,Luxembourg (city),140.79
+Madagascar,Antananarivo,139.67
+Malawi,Lilongwe,139.24
+Malaysia,Kuala Lumpur,138.43
+Maldives,Male,137.99
+Mali,Bamako,137.75
+Malta,Valletta,138.33
+Marshall Islands,Majuro,138.33
+Mauritania,Nouakchott,137.79
+Mauritius,Port Louis,137.54
+Mexico,Mexico City,137.77
+Micronesia,Palikir,137.77
+Moldova,Chisinau,137.42
+Monaco,Monaco,139.69
+Mongolia,Ulaanbaatar,139.07
+Montenegro,Podgorica,138.33
+Morocco,Rabat,138.05
+Mozambique,Maputo,137.62
+Myanmar,Naypyidaw,136.73
+Namibia,Windhoek,136.47
+Nauru,Yaren District (de facto),136.47
+Nepal,Kathmandu,135.66
+Netherlands,Amsterdam,136.84
+New Zealand,Wellington,137.2
+Nicaragua,Managua,136.71
+Niger,Niamey,136.82
+Nigeria,Abuja,136.9
+North Korea,Pyongyang,136.9
+North Macedonia,Skopje,136.28
+Norway,Oslo,137.24
+Oman,Muscat,137.11
+Pakistan,Islamabad,136.46
+Palau,Ngerulmud,136.46
+Palestine,Jerusalem (East),136.79
+Panama,Panama City,136.56
+Papua New Guinea,Port Moresby,136.72
+Paraguay,Asunción,136.13
+Peru,Lima,136.17
+Philippines,Manila,135.4
+Poland,Warsaw,136.02
+Portugal,Lisbon,136.58
+Qatar,Doha,136.97
+Romania,Bucharest,136.72
+Russia,Moscow,136.64
+Rwanda,Kigali,136.59
+Saint Kitts and Nevis,Basseterre,137.12
+Saint Lucia,Castries,137.36
+Saint Vincent and the Grenadines,Kingstown,137.23
+Samoa,Apia,136.97
+San Marino,San Marino,136.85
+Sao Tome and Principe,São Tomé,136.37
+Saudi Arabia,Riyadh,136.77
+Senegal,Dakar,136.89
+Serbia,Belgrade,136.8
+Seychelles,Victoria,137.21
+Sierra Leone,Freetown,136.86
+Singapore,Singapore,137.05
+Slovakia,Bratislava,136.73
+Slovenia,Ljubljana,136.45
+Solomon Islands,Honiara,136.5
+Somalia,Mogadishu,136.5
+South Africa,"Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",136.5
+South Korea,Seoul,136.73
+South Sudan,Juba,136.26
+Spain,Madrid,136.57
+Sri Lanka,Sri Jayawardenepura Kotte,136.01
+Sudan,Khartoum,136.01
+Suriname,Paramaribo,135.57
+Sweden,Stockholm,135.81
+Switzerland,Bern,136.56
+Syria,Damascus,136.33
+Taiwan,Taipei,135.86
+Tajikistan,Dushanbe,135.43
+Tanzania,Dodoma,135.36
+Thailand,Bangkok,135.02
+Timor-Leste,Dili,134.88
+Togo,Lomé,134.3
+Tonga,Nukuʻalofa,134.28
+Trinidad and Tobago,Port of Spain,134.26
+Tunisia,Tunis,133.95
+Turkey,Ankara,133.53
+Turkmenistan,Ashgabat,133.53
+Tuvalu,Funafuti,133.53
+Uganda,Kampala,133.52
+Ukraine,Kyiv (also known as Kiev),133.52
+United Arab Emirates,Abu Dhabi,134.6
+United Kingdom,London,135.27
+United States of America,"Washington, D.C.",136.97
+Uruguay,Montevideo,136.62
+Uzbekistan,Tashkent,136.55
+Vanuatu,Port Vila,136.34
+Vatican City (Holy See),Vatican City,136.34
+Venezuela,Caracas,136.34
+Vietnam,Hanoi,136.04
+Yemen,Sana'a,136.04
+Zambia,Lusaka,135.89
+Zimbabwe,Harare,135.69
